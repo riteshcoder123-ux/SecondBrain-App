@@ -1,0 +1,5 @@
+package com.secondbrain.memoryos;
+
+import com.getcapacitor.BridgeActivity;
+
+public class MainActivity extends BridgeActivity {}
